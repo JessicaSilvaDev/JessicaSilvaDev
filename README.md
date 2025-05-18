@@ -1,5 +1,4 @@
-## Olá, eu sou a Jéssica! 👋
+## Hi, I'm Jessica! 🙋
 <br>
 
-<b> Sou uma estudante de Programação FullStack, apaixonada por tecnologia e desenvolvimento web. Atualmente, estou focada em HTML, CSS e dando meus primeiros passos com JavaScript.
-Busco constantemente aprender, criar projetos e aprimorar minhas habilidades. Aqui no meu GitHub, você encontrará alguns dos meus trabalhos e experimentações enquanto construo meu caminho no mundo da programação.</b>
+<b> I'm a FullStack Programming student, passionate about technology and web development. Currently, I'm focused on HTML, CSS and taking my first steps with JavaScript. I'm constantly looking to learn, create projects and improve my skills. Here on my GitHub, you'll find some of my work and experiments as I build my path in the world of programming.</b>
