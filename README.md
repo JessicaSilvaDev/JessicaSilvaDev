@@ -2,7 +2,7 @@
 <br>
 <br>
 
-<b> Sou estudante de Programação FullStack, apaixonada por tecnologia e desenvolvimento web. Atualmente, estou focada em HTML, CSS e dando meus primeiros passos com JavaScript. Estou sempre buscando aprender, criar projetos e aprimorar minhas habilidades. Aqui no meu GitHub, você encontrará alguns dos meus trabalhos e experimentos enquanto construo meu caminho no mundo da programação.</b>
+<b> I'm a FullStack Programming student, passionate about technology and web development. Currently, I'm focused on HTML, CSS and taking my first steps with JavaScript. I'm always looking to learn, create projects and improve my skills. Here on my GitHub, you'll find some of my work and experiments as I build my path in the world of programming.</b>
 <br>
 <br>
 
