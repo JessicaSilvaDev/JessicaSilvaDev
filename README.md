@@ -19,8 +19,8 @@
   <br>
 	
   <a href="https://github.com/JessicaSilvaDev"/>
-  <img height="150em" src= "https://github-readme-stats.vercel.app/api?username=JessicaSilvaDev&show_icons=true&theme=dracula")](https://github.com/anuraghazra/github-readme-stats"/>
-  <img height="150em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaSilvaDev&layout=compact&langs_count=16&theme=dark"/>
+  <img height="150em" src= "https://github-readme-stats.vercel.app/api?username=JessicaSilvaDev&show_icons=true&theme=tokyonight")](https://github.com/anuraghazra/github-readme-stats"/>
+  <img height="150em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaSilvaDev&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 
