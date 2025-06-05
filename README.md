@@ -1,4 +1,4 @@
-<img height="100px" src="https://github.com/user-attachments/assets/bb7e2f4f-a661-40bf-a77d-88a0cc64ee6d"/>  <b> Olá, eu sou a Jéssica Silva! <b/> 
+<img height="100px" src="https://github.com/user-attachments/assets/bb7e2f4f-a661-40bf-a77d-88a0cc64ee6d"/>  <b> Olá, eu sou Jéssica Silva! <b/> 
 <br>
 <br>
 
