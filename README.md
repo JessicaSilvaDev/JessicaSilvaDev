@@ -1,8 +1,8 @@
-<img height="100px" src="https://github.com/user-attachments/assets/bb7e2f4f-a661-40bf-a77d-88a0cc64ee6d"/>  <b> Hi, I'm Jéssica Silva! <b/> 
+<img height="100px" src="https://github.com/user-attachments/assets/bb7e2f4f-a661-40bf-a77d-88a0cc64ee6d"/>  <b> Olá, eu sou a Jéssica Silva! <b/> 
 <br>
 <br>
 
-<b> I'm a FullStack Programming student, passionate about technology and web development. Currently, I'm focused on HTML, CSS and taking my first steps with JavaScript. I'm always looking to learn, create projects and improve my skills. Here on my GitHub, you'll find some of my work and experiments as I build my path in the world of programming.</b>
+<b> Sou estudante de programação FullStack, apaixonada por tecnologia e desenvolvimento web. Atualmente, estou focada em HTML, CSS e dando meus primeiros passos com JavaScript. Estou sempre buscando aprender, criar projetos e aprimorar minhas habilidades. Aqui no meu GitHub, você encontrará alguns dos meus trabalhos e experimentos enquanto construo meu caminho no mundo da programação..</b>
 <br>
 <br>
 
